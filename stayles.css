@@ -1,0 +1,53 @@
+body{
+    background-color: antiquewhite;
+}
+.u2{
+    background-color: steelblue;
+    border-radius: 15px;
+    position: absolute;
+    top: 65px;
+    right: 600px;
+}
+.u1{
+    background-color: rgb(150, 29, 29);
+    
+    border-radius: 15px;
+    position: absolute;
+    
+}
+pre{
+    background-color: rgb(143, 36, 36);
+    border-radius: 10px;
+    position: absolute;
+    top: 315px;
+    left: 20px;
+}
+img{
+    position: absolute;
+    top: 320px;
+    right:600px ;
+}
+.info{
+    position: absolute;
+    top: 500px;
+}
+button{
+    border: 1px solid #700;
+    padding: 15px;
+    color: #fff;
+    background: dimgrey;
+    border-radius: 10px;
+    transition: all 0.5s;
+    font-size: 10px;
+
+}
+button:hover{
+    border: 1px solid #700;
+    padding: 15px;
+    color: dimgrey;
+    background:#fff ;
+    border-radius: 10px;
+    transition: all 0.5s;
+    font-size: 10px;
+
+}
